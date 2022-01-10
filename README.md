@@ -38,8 +38,8 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
   </div>  
 </div>
 <div align='center' min-width=820>
-  <figure>
-    <img src="training/clasic/06.jpg"  width=250 alt="my img"/>
+  <figure float='right'>
+    <img src="training/clasic/06.jpg"  width=250 alt="my img">
     <figcaption>
       1o2o2o262o272o2o24<br>
       1o1o193o3o3o254o42<br>
@@ -52,8 +52,8 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
       979893959o7o8o8o8o<br>
     </figcaption>
   </figure>
-  <figure>
-    <img src="training/clasic/06.jpg"  width=250 alt="my img"/>
+  <figure float='left'>
+    <img src="training/clasic/06.jpg"  width=250 alt="my img">
     <figcaption>
       1o2o2o262o272o2o24<br>
       1o1o193o3o3o254o42<br>
