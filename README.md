@@ -8,16 +8,17 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
   <img src='training/jigsaw/02.jpg' width=250 float='right' >
 </div>
 
-o68ooo5oo
-o542o8ooo
-7ooo5o8oo
-ooo491ooo
-oooooo3oo
-oooo32o41
-o9o3oo168
-oo6o2oooo
+<div align='center' min-width=820>
+o68ooo5oo\n
+o542o8ooo\n
+7ooo5o8oo\n
+ooo491ooo\n
+oooooo3oo\n
+oooo32o41\n
+o9o3oo168\n
+oo6o2oooo\n
 41oo7ooo2
-
+</div>
 The libraries required to run the project
 <ul>
   <li>python==3.9.5</li>
