@@ -4,7 +4,7 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
 
 <div align='center' min-width=820>
   <div float='left'><img src='training/clasic/06.jpg' width=250 float='left'>
-o68ooo5oo<br>
+<br>o68ooo5oo<br>
 o542o8ooo<br>
 7ooo5o8oo<br>
 ooo491ooo<br>
