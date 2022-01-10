@@ -14,7 +14,7 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
     oo6o2oooo<br>
     41oo7ooo2
   </div>
-  <div float='left'><img src='training/clasic/06.jpg' width=250 float='left'>
+  <div float='right'><img src='training/clasic/06.jpg' width=250 float='left'>
     <br>o68ooo5oo<br>
     o542o8ooo<br>
     7ooo5o8oo<br>
