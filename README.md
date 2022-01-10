@@ -7,7 +7,7 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
   <img src='training/jigsaw/01.jpg' width=250 float='left'>
   <img src='training/jigsaw/03.jpg' width=250 float='left'>
 </div>
-<br>ooo5ooooo         1o2o2o262o272o2o24        1o1o1o262o2o212o3o<br>
+<br>ooo5ooooo&emsp         1o2o2o262o272o2o24        1o1o1o262o2o212o3o<br>
     9oo482oo5         1o1o193o3o3o254o42        421o1o2o25273o2o3o<br>
     o753o1o6o         12333o3o5o5o564o4o        454o1o1o5o5o3o3o3o<br>
     8o7oo4o2o         1o1o683o3o315o444o        4o4o1o195o513o333o<br>
