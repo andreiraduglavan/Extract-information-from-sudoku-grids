@@ -37,7 +37,7 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
     9o959o919o9o8o8o8o<br>
   </div>  
 </div>
-
+<br>
 The libraries required to run the project
 <ul>
   <li>python==3.9.5</li>
