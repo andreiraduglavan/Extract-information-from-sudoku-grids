@@ -8,8 +8,8 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
   <img src='training/jigsaw/02.jpg' width=250 float='right' >
 </div>
 
-<div align='center' min-width=820>
-o68ooo5oo<br>
+<div align='center'>
+<div float='left'>o68ooo5oo<br>
 o542o8ooo<br>
 7ooo5o8oo<br>
 ooo491ooo<br>
@@ -17,7 +17,7 @@ oooooo3oo<br>
 oooo32o41<br>
 o9o3oo168<br>
 oo6o2oooo<br>
-41oo7ooo2
+  41oo7ooo2</div>
 </div>
 The libraries required to run the project
 <ul>
