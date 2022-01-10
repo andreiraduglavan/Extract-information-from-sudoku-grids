@@ -38,7 +38,21 @@ Detecting sudoku grids patterns and recognizing digits using computer vision. In
   </div>  
 </div>
 <figure>
-  <img src="training/clasic/06.jpg" alt="my img"/>
+  <img src="training/clasic/06.jpg"  width=250 alt="my img"/>
+  <figcaption>
+    <br>1o2o2o262o272o2o24<br>
+    1o1o193o3o3o254o42<br>
+    12333o3o5o5o564o4o<br>
+    1o1o683o3o315o444o<br>
+    1o1o626o6o5o5o4o4o<br>
+    6o6o6o637o5o5o8o4o<br>
+    9o9o7o6o7o7o578o8o<br>
+    969o7o747o7o8o858o<br>
+    979893959o7o8o8o8o<br>
+  </figcaption>
+</figure>
+<figure>
+  <img src="training/clasic/06.jpg"  width=250 alt="my img"/>
   <figcaption>
     <br>1o2o2o262o272o2o24<br>
     1o1o193o3o3o254o42<br>
