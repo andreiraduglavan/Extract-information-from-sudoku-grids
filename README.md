@@ -1,4 +1,4 @@
-# Extract-information-from-sudoku-grids
+# Extract information from sudoku grids
 
 Detecting sudoku grids patterns and recognizing digits using computer vision. In the training folder three type of sudoku grids pictures are given: classic, jigsaw and jigsaw colored. <code>run_project.py</code> script outputs txt file with whether or not there is a digit in a cell and the digit predicted. For the jigsaw grids, the zone of the cell is also detected, like shown in the examples bellow. Check Doc.pdf for mor detailed information over solution.
 
